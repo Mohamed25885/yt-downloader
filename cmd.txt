@@ -1,0 +1,2 @@
+pyinstaller --onefile --windowed --noconsole --icon=icons/arrow
+.ico --name="Youtube Downloader" project.py
